@@ -1,1 +1,1 @@
-# pmlh
+# ProtonMail MailTo Link Handler
