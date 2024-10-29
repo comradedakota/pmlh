@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "ProtonMail MailTo Link Handler",
+  "version": "1.0.0",
+
+  "protocol_handlers": [
+    {
+      "protocol": "mailto",
+      "name": "ProtonMail MailTo Link Handler",
+      "uriTemplate": "https://mail.proton.me/inbox/#mailto=%s"
+    }
+  ],
+
+  "permissions": [
+    "tabs"
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pmlh@dakotaraine.xyz"
+    }
+  }
+}
