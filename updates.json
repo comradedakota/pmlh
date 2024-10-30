@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{e76861e0-c562-4bca-beba-69e4fdf0e945}": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/comradedakota/pmlh/raw/refs/tags/stable/releases/1.0.0/pmlh-1.0.0.xpi"
+        }
+      ]
+    }
+  }
+}
